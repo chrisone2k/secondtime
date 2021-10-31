@@ -5,7 +5,7 @@ date: 2020-09-01
 tags: ["post", "featured"]
 image: /assets/blog/article-5.jpg
 imageAlt: On board
-description: Together let's fly, even though there are times that I feel nervous boarding a plane, I cant myself to go on air.  
+description: Together let's fly, even though there are times that I feel nervous boarding a plane.  
 
 ---
 
