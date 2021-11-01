@@ -2,7 +2,7 @@
 title: Sunset
 author: Christofer Yalung
 tags: ["post", "featured"]
-ate: 2021-10-30
+date: 2021-10-29
 image: /assets/blog/article-6.jpg
 imageAlt: The sunset
 description: Sunset is one of my favorite happenings here on earth because it reminds us to take a rest for a while. A simple clock that says, let us call it a day. A time where the sun is beyond the horizon.  
