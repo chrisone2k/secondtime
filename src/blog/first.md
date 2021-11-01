@@ -2,7 +2,7 @@
 title: Water as symbol of life
 author: Christofer Yalung
 tags: ["post"]
-ate: 2020-09-22
+date: 2020-09-22
 image: /assets/blog/article-1.jpg
 imageAlt: Water in a dam
 description: Water is one of the requirements for us to survive in this world. No one can last long without it. It is not only necessary for health reasons but also for personal hygiene. Just imagine a day without taking bath on a sunny and sweaty day. 
