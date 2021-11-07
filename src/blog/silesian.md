@@ -2,7 +2,7 @@
 title: Memories of Silesia
 author: Christofer Yalung
 tags: ["post", "featured"]
-date: 2021-11-06
+date: 2021-11-07
 image: /assets/blog/silesian/saf1.jpg
 imageAlt: Silesia
 description: I asked him the color of the leaves. “Yellow inst it?” He answered and consequently bend his knees and grabbed some on the ground. These leaves are brown, he added. Evidently, the change of colors signifies the process of events in the life of trees. 
