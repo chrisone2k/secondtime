@@ -12,7 +12,7 @@ We keep on walking inside the huge park of Silesia and utter several adjectives 
 
 I have visited this park several times and mentioned that he must see the park a couple of times. Until one time, he finally make up his mind to see it. He would say that it must be very beautiful prior to the autumn period. Apparantly,  he prefers to see the green leaves. As for me, I am amused seeing the abundance of color yellow with a touch of orange on leaves. I see it as very unusual and so vibrant. The diversity of colors brings a sense of uniqueness and dynamism. Well, each person has his own preference but one thing is for sure, each season has its own beauty. Let me borrow words from the resource person who gave a talk to us in 2004, “Bloom where you planted.”
 
-On the other hand, tomorrow is my flight to Helsinki Finland. I feel excited, something new will be added to the list of my visited countries. Funny as it may sound. To date, I am in Tatamka Hostel in Warsaw. Indeed, this accommodation is highly recommended. Not to mention its good facilities, its location is close to many tourist attractions. I have got nice photos without getting tired of walking. 
+On the other hand, tomorrow is my flight to Helsinki Finland. I feel excited, something new will be added to the list of my visited countries. Funny as it may sound. To date, I am in Tatamka Hostel in Warsaw. Indeed, this accommodation is highly recommended. Not to mention its good facilities, but also, its location is close to many tourist attractions. I have got nice photos without getting tired of walking. 
 <div class="row">
    <div class="column">
     <img src="/assets/blog/silesian/s1.jpg" style="width:100%">
